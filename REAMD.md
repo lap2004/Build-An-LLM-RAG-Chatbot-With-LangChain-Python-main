@@ -68,7 +68,7 @@ python seed_data.py
 streamlit run main.py
 ```
 
-## 💻 Cách sử dụng
+## Cách sử dụng
 
 ### 1. Khởi động ứng dụng
 
