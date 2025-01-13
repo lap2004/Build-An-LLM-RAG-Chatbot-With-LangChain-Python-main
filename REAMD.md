@@ -1,12 +1,12 @@
-# 🤖 Xây Dựng Chatbot AI với LangChain và Python
+# Xây Dựng Chatbot AI với LangChain và Python
 
-## 📋 Yêu cầu hệ thống
+## Yêu cầu hệ thống
 
 - Python 3.8 trở lên,version 3.8.18 
 - Docker Desktop 
 - OpenAI API key 
 
-## 🚀 Các bước cài đặt và chạy
+## Các bước cài đặt và chạy
 
 ### Bước 1: Cài đặt môi trường
 
