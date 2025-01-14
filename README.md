@@ -6,11 +6,11 @@ Tôi là một lập trình viên đam mê khám phá và xây dựng các giả
 ### 💻 Kỹ năng chính
 - **Ngôn ngữ lập trình**: [JavaScript, Python]
 - **Công nghệ và framework**: [Django, Flask,Streamlit]
-- **Dữ liệu và AI**: [Nếu bạn có kinh nghiệm, ví dụ: Machine Learning, Deep Learning, etc.]
+- **Dữ liệu và AI**: [Nếu bạn có kinh nghiệm, ví dụ: Machine Learning, Deep Learning]
 
 ### 🚀 Dự án nổi bật
-- **[Build-An-LLM-RAG-Chatbot-With-LangChain-Python-main]**: [Xây dựng Chatbot AI sử dụng LangChain và Python]
-- **[Flan-T5]**: [Xây dựng Chatbot AI sử dụng Flan-T5 và Python]
+- **[Build-An-LLM-RAG-Chatbot-With-LangChain-Python-main]**: Xây dựng Chatbot AI sử dụng LangChain và Python
+- **[Flan-T5]**: Xây dựng Chatbot AI sử dụng Flan-T5 và Python
 
 ### 🌱 Định hướng phát triển
 Tôi luôn muốn học hỏi thêm về:
