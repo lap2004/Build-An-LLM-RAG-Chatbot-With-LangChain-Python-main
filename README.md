@@ -10,7 +10,7 @@ Tôi là một lập trình viên đam mê khám phá và xây dựng các giả
 
 ### 🚀 Dự án nổi bật
 - **[Build-An-LLM-RAG-Chatbot-With-LangChain-Python-main]**: Xây dựng Chatbot AI sử dụng LangChain và Python
-- **[Flan-T5]**: Xây dựng Chatbot AI sử dụng Flan-T5 và Python
+- **[Flan-T5-ChatBot]**: Xây dựng Chatbot AI sử dụng Flan-T5 và Python
 
 ### 🌱 Định hướng phát triển
 Tôi luôn muốn học hỏi thêm về:
