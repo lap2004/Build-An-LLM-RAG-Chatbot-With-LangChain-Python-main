@@ -63,6 +63,7 @@ python seed_data.py
 ```
 (Kiểm tra data đã aào Milvus chưa bằng cách truy cập: http://localhost:8000/#/databases/default/colletions
 <Nhớ để ý `docker run -p 8000:3000 -e MILVUS_URL={milvus server IP}:19530 zilliz/attu:v2.4` để chắc chắn Milvus đang hoạt động >)
+
 3. Run ứng dụng:
 ```python
 streamlit run main.py
